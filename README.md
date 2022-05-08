@@ -2,10 +2,10 @@
 
 Grading Policy
 ---------------------------------
-Short Quizzes	-> 15%            *
-Assignments	-> 15%              *
-Project / Paper Proposal -> 5%  *
-Project / Paper Draft -> 5%     *
-Project / Paper -> 25%          *
-Half Term Exam -> 35%           *
+- Short Quizzes	-> 15%            *
+- Assignments	-> 15%              *
+- Project / Paper Proposal -> 5%  *
+- Project / Paper Draft -> 5%     *
+- Project / Paper -> 25%          *
+- Half Term Exam -> 35%           *
 ---------------------------------
