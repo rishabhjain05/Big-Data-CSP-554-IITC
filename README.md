@@ -1,6 +1,6 @@
-# Big-Data CSP-554 Illinois Institute of Technology, Chicago 
+# Big-Data CSP-554 (Spring 2022) Illinois Institute of Technology, Chicago 
 
-Grading Policy
+###### Grading Policy
 
 - Short Quizzes	-> 15%            
 - Assignments	-> 15%              
