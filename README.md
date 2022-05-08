@@ -1,4 +1,6 @@
-# Big-Data CSP-554 (Spring 2022) Illinois Institute of Technology, Chicago 
+# Big-Data CSP-554 (Spring 2022) IIT, Chicago 
+
+###### Instructor: Prof. Joseph Rosen
 
 ###### Grading Policy
 
